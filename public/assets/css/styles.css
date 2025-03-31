@@ -1,0 +1,20 @@
+
+.umaximo-blue{
+  background-color: #1cc7a6;
+}
+body.custom-theme .sidebar:after,
+body.custom-theme > .navbar-collapse:after {
+    background: #556077;
+    background: linear-gradient(to bottom, #556077 0%, #556077 100%);
+}
+.sidebar-logo{
+  width: 70%;
+}
+.navbar .navbar-brand {
+  color: #FFF !important;
+}
+
+.dragging {
+  opacity: 0.7;
+  border: 2px dashed #556077;
+}
